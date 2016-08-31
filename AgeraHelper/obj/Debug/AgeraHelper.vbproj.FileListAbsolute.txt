@@ -1,0 +1,10 @@
+D:\GTAV Mods\AgeraHelper\AgeraHelper\bin\Debug\AgeraHelper.dll
+D:\GTAV Mods\AgeraHelper\AgeraHelper\bin\Debug\AgeraHelper.pdb
+D:\GTAV Mods\AgeraHelper\AgeraHelper\bin\Debug\AgeraHelper.xml
+D:\GTAV Mods\AgeraHelper\AgeraHelper\bin\Debug\ScriptHookVDotNet.xml
+D:\GTAV Mods\AgeraHelper\AgeraHelper\obj\Debug\AgeraHelper.vbprojResolveAssemblyReference.cache
+D:\GTAV Mods\AgeraHelper\AgeraHelper\obj\Debug\AgeraHelper.Resources.resources
+D:\GTAV Mods\AgeraHelper\AgeraHelper\obj\Debug\AgeraHelper.vbproj.GenerateResource.Cache
+D:\GTAV Mods\AgeraHelper\AgeraHelper\obj\Debug\AgeraHelper.dll
+D:\GTAV Mods\AgeraHelper\AgeraHelper\obj\Debug\AgeraHelper.xml
+D:\GTAV Mods\AgeraHelper\AgeraHelper\obj\Debug\AgeraHelper.pdb

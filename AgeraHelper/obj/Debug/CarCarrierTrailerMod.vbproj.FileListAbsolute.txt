@@ -1,0 +1,11 @@
+D:\GTAV Mods\TrailerMod\AgeraHelper\bin\Debug\INMNativeUI.dll
+D:\GTAV Mods\TrailerMod\AgeraHelper\bin\Debug\ScriptHookVDotNet.xml
+D:\GTAV Mods\TrailerMod\AgeraHelper\obj\Debug\CarCarrierTrailerMod.vbprojResolveAssemblyReference.cache
+D:\GTAV Mods\TrailerMod\AgeraHelper\obj\Debug\TrailerMod.Resources.resources
+D:\GTAV Mods\TrailerMod\AgeraHelper\obj\Debug\CarCarrierTrailerMod.vbproj.GenerateResource.Cache
+D:\GTAV Mods\TrailerMod\AgeraHelper\bin\Debug\CarCarrierTrailerMod.dll
+D:\GTAV Mods\TrailerMod\AgeraHelper\bin\Debug\CarCarrierTrailerMod.pdb
+D:\GTAV Mods\TrailerMod\AgeraHelper\bin\Debug\CarCarrierTrailerMod.xml
+D:\GTAV Mods\TrailerMod\AgeraHelper\obj\Debug\CarCarrierTrailerMod.dll
+D:\GTAV Mods\TrailerMod\AgeraHelper\obj\Debug\CarCarrierTrailerMod.xml
+D:\GTAV Mods\TrailerMod\AgeraHelper\obj\Debug\CarCarrierTrailerMod.pdb
